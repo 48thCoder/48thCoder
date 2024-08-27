@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://www.linkedin.com/in/48vaibhav" target="blank"><img src="https://img.shields.io/badge/-Let's Connect @48vaibhav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="48vaibhav" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at ➡️ [Creations](https://github.com/48thCoder?tab=repositories)
+- 👨‍💻 Source code for all of my projects is available at ➡️ [*Creations*](https://github.com/48thCoder?tab=repositories)
 
-- 📫 How to reach me ➡️ [Official Gmail](guptavaibhav4248@gmail.com)
+- 📫 How to reach me ➡️ *guptavaibhav4248@gmail.com*
 
 - ⚡ Fun fact : **Life is fun when you're coding!!! 💻**
 
