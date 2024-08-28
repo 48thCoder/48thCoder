@@ -1,5 +1,7 @@
-<h1 align="center">Hi 🤗 Myself VAIBHAV GUPTA</h1>
-<h2 align="center">A passionate "Full Stack Web Developer" from India</h2>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=38&pause=1000&color=F7F400&center=true&vCenter=true&width=460&height=80&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hii%2C+Myself+VAIBHAV+GUPTA" alt="Typing SVG" /></a>
+</p>
+<h1 align="center">A passionate Tech Enthusiast from India 🇮🇳</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding GIF" width="400"/>
