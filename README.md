@@ -7,10 +7,6 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=48thCoder&label=Profile%20Views&color=378784&icon=0&pretty=true" />
-</a>
-
 <p align="left"> <a href="https://www.linkedin.com/in/48vaibhav" target="blank"><img src="https://img.shields.io/badge/-Let's Connect @48vaibhav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="48vaibhav" /></a>
 </p>
 
