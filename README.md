@@ -67,5 +67,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=48thcoder&" alt="48thcoder" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=48thCoder&column=5&title=-Issues,-PullRequest,-Reviews" alt="GitHub Trophies" />
+</p>
+
 <h3 align="center">"Code is like humor. When you have to explain it, it’s bad"</h3>
 <h3 align="center">– Cory House</h3>
